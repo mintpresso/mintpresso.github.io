@@ -2,9 +2,9 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://mintpresso.github.io
-title: Awesome
-email: jhlee@yellotravel.com
-author: mintpresso
-description: My awesome new site
-paginate: 3
+title: ZARI Developers
+email: zari.devops@gmail.com
+author: Jinhyuk Lee
+description: ZARI Developers
+paginate: 5
 google_analytics: 
