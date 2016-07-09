@@ -1,6 +1,6 @@
 ---
 published: true
-title: 모든 변경내역을 남기기 (Changelogs in ZARI)
+title: 데이터 변경내역 남기기 (Changelogs in ZARI)
 layout: post
 ---
 안녕하세요, 자리를 만들고 있는 개발자 이진혁입니다.
