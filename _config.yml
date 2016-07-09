@@ -3,6 +3,7 @@ pygments: true
 markdown: kramdown
 url: http://mintpresso.github.io
 title: ZARI Developers
+subtitle: 자리 개발팀 블로그
 email: zari.devops@gmail.com
 author: Jinhyuk Lee
 description: ZARI Developers
